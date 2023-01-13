@@ -1,0 +1,26 @@
+* {
+    font-family: 'Poppins', sans-serif;
+    font-size: 400;
+}
+
+.nav__li {
+    display: inline-block;
+    padding: 12px;
+    color: #fff;
+}
+
+.container {
+    background: #3498db;
+    height: 3em;
+}
+
+.nav__li > a {
+    color: #fff;
+    text-decoration: none;
+}
+
+.nav__li > i {
+    box-sizing: border-box;
+    text-align: right;
+    margin-right: 4px;
+}
